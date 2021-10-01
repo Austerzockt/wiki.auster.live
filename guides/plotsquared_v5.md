@@ -1,6 +1,6 @@
-# Plotsquared V5 Compilation
+# Plotsquared V6 Compilation
 
-1. Install a Copy of Java 11 from: [Download](https://adoptopenjdk.net/)   
+1. Install a Copy of Java 17 from: [Download](https://adoptopenjdk.net/)   
 
 
    Setup should be trivial for the most part, just download it, execute it and install it.   
